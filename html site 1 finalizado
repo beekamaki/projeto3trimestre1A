@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="tartaruga.css">
+    <title>tartaruga</title>
+</head>
+<body>
+
+    <div class="wrapper">
+
+
+    <div class="produtoimagem">
+
+<img id="tartaruga" src="tartaruga.png" height="300" width="500">
+
+    </div>
+
+
+    <div class="produtoinfo">
+        <div class="produtotexto">
+
+
+    <h1> a tartaruga azul fofinha</h1>
+    <h2>tartaruga azul de pelúcia com som!</h2>
+    <p>fofa e macia com sons de mares, seu filho irá adorar brincar com a nossa nova amiga tartaruga azul. edição limitada, venha conferir já.
+        com promoção imperdivel! tendo 30% de desconto na primeira compra, seu filho vai gostar!</p>
+
+    </div>
+<div class="produtopreco">
+    <p><span> R$ 185,00</span></p>
+<button type="button"> comprar agora</button>
+  </div>
+</div>
+</div>
+
+
+
+</body>
+</html>
